@@ -1,0 +1,5 @@
+Flask
+requests
+requests-toolbelt
+python-docx
+pywin32 ; platform_system == "Windows"
