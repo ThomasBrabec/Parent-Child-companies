@@ -1,0 +1,11 @@
+{
+  "workflowActions": [
+    {
+      "type": "FUNCTION",
+      "functionName": "associate-contact-to-parent",
+      "label": "Koppel contact ook aan moederbedrijf",
+      "inputFields": [],
+      "objectTypes": ["CONTACT"]
+    }
+  ]
+}
