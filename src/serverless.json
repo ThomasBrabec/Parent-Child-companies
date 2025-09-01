@@ -1,0 +1,10 @@
+{
+  "runtime": "nodejs18.x",
+  "endpoints": {
+    "associate-contact-to-parent": {
+      "method": "POST",
+      "file": "associate-contact-to-parent.js",
+      "secrets": ["PRIVATE_APP_TOKEN"]
+    }
+  }
+}
